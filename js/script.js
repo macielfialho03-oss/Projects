@@ -5,3 +5,4 @@ document.querySelectorAll(".form-cadastro").forEach(function (formulario) {
     formulario.reset();
   });
 });
+
